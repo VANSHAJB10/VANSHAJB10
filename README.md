@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @VANSHAJB10
-- 👀 I’m interested in Front End Web development  
-- 🌱 I’m currently learning Js , Blockchain development
+- 👋 Hi, My name is Vanshaj
+- 👀 I believe in building in public and have worked on several projects in Frontend development and Python.
+- 🤟 I’m a freelance content writer and copywriter.   
+- 🌱 I’m currently learning Java , Blockchain development
 - 💞️ I’m looking to collaborate on projects in Front end development| Python | c++ 
-- 📫 How to reach me - Reach me @vanshajbajaj1002@gmail.com 
-
-<!---
-VANSHAJB10/VANSHAJB10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me - https://www.linkedin.com/in/vanshaj-bajaj-146880222/      <--- My Linkedin
+         OR reach me @ vanshajbajaj1002@gmail.com                                 <--- E-mail Id
