@@ -16,6 +16,8 @@
 <h1 align="center">Hi 👋, I'm Vanshaj</h1>
 <h3 align="center">A passionate Frontend developer from India.</h3>
 
+[![An image of @vanshajb10's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vanshajb10)](https://holopin.io/@vanshajb10)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshajb10&label=Profile%20views&color=0e75b6&style=flat" alt="vanshajb10" /> </p>
 
 - 🔭 I’m currently working on **building a user-friendly website**
