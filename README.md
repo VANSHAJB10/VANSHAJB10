@@ -14,6 +14,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshajb10&layout=compact)](https://github.com/vanshajb10/github-readme-stats)
  -->
 <h1 align="center">Hi 👋, I'm Vanshaj</h1>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="26dc2502-ccc8-4e93-94ab-6d9d90f5c58a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <h3 align="center">A passionate Frontend developer from India.</h3>
 
 [![An image of @vanshajb10's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vanshajb10)](https://holopin.io/@vanshajb10)
