@@ -58,8 +58,11 @@
 <p align="left"> <a href="https://www.credly.com/badges/26dc2502-ccc8-4e93-94ab-6d9d90f5c58a/public_url" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/size/220x220/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" alt="aws" width="100" height="100"/> </a>
 <!-- <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script> -->
 
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshajb10&show_icons=true&locale=en&layout=compact" alt="vanshajb10" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanshajb10&show_icons=true&locale=en" alt="vanshajb10" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshajb10&" alt="vanshajb10" /></p>
+
+-->
