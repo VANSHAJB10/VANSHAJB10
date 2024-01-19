@@ -56,6 +56,7 @@
 
 <!-- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="26dc2502-ccc8-4e93-94ab-6d9d90f5c58a" data-share-badge-host="https://www.credly.com"></div> -->
 <p align="left"> <a href="https://www.credly.com/badges/26dc2502-ccc8-4e93-94ab-6d9d90f5c58a/public_url" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/size/220x220/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" alt="aws" width="100" height="100"/> </a>
+</p>
 <!-- <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script> -->
 
 <!--
