@@ -52,7 +52,7 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <!-- <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> -->
-<a href="" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fclickfunnels&psig=AOvVaw19FBbeeqjINwRNcJPRpPuy&ust=1713635524538000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDqm7_szoUDFQAAAAAdAAAAABAE" alt="cickfunels" width="300" height="300"/> </a> 
+<!-- <a href="" target="_blank" rel="noreferrer"> <img src="" alt="cickfunels" width="300" height="300"/> </a>  -->
 </p>
 
 <!-- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="26dc2502-ccc8-4e93-94ab-6d9d90f5c58a" data-share-badge-host="https://www.credly.com"></div> -->
