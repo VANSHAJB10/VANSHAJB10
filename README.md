@@ -1,19 +1,14 @@
 <!-- <h1 align="center">Hi 👋, I'm Vanshaj</h1>
-<h3 align="center">On a journey from 0 to 1 ⇗ </h3>
+<h3 align="center"> Getting stuff Done! ⇗ </h3>
 
 [![An image of @vanshajb10's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vanshajb10)](https://holopin.io/@vanshajb10)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshajb10&label=Profile%20views&color=0e75b6&style=flat" alt="vanshajb10" /> </p>
 
-- 🔭 I’m currently working on **getting my hands dirty on using AI in daily development**
+- 🚀 DevOps | CI/CD | Exploring GenAI Integrations & GoLang  
+- 🎯 Building reliable infrastructure, scalable automation pipelines, and monitoring systems with a strong bias toward action.
+- 🚀 Troubleshooting Deployment queries related to Pods and Nodes, Autoscaling, Deployment Strategy.
 
-- 🌱 I’m currently learning **AWS**
-
-- 👯 I’m looking to collaborate on **Java projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/VANSHAJB10](https://github.com/VANSHAJB10)
-
-- 💬 Ask me about **Java, Wordpress**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
