@@ -38,6 +38,7 @@
 
 <h1 align="center">Hi 👋, I'm Vanshaj</h1>
 <h3 align="center"> Getting stuff Done! ⇗ </h3>
+<h4 align="center"> <a href=""><img src="https://icon.icepanel.io/Technology/svg/Go.svg" alt="Go Lang 🧙‍♂️" width="30" height="30"/></a>Learning GoLang <a href=""><img src="https://icon.icepanel.io/Technology/svg/Go.svg" alt="Go Lang 🧙‍♂️" width="30" height="30"/></h4>
 
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vanshajb10" alt="vanshajb10" /></a> </p>
