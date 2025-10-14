@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshajb10&label=Profile%20views&color=0e75b6&style=flat" alt="vanshajb10" /> </p>
 
-- 🚀 DevOps | CI/CD | Exploring GenAI Integrations & GoLang  
+- 🚀 DevOps | CI/CD | Exploring GenAI Integrations & Java 
 - 🎯 Building reliable infrastructure, scalable automation pipelines, and monitoring systems with a strong bias toward action.
 - 🚀 Troubleshooting Deployment queries related to Pods and Nodes, Autoscaling, Deployment Strategy.
 
@@ -38,18 +38,18 @@
 
 <h1 align="center">Hi 👋, I'm Vanshaj</h1>
 <h3 align="center"> Getting stuff Done! ⇗ </h3>
-<h4 align="center"> <a href=""><img src="https://icon.icepanel.io/Technology/svg/Go.svg" alt="Go Lang 🧙‍♂️" width="30" height="30"/></a>Learning GoLang <a href=""><img src="https://icon.icepanel.io/Technology/svg/Go.svg" alt="Go Lang 🧙‍♂️" width="30" height="30"/></h4>
+<!-- <h4 align="center"> <a href=""><img src="https://icon.icepanel.io/Technology/svg/Go.svg" alt="Go Lang 🧙‍♂️" width="30" height="30"/></a>Learning GoLang <a href=""><img src="https://icon.icepanel.io/Technology/svg/Go.svg" alt="Go Lang 🧙‍♂️" width="30" height="30"/></h4> -->
 
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vanshajb10" alt="vanshajb10" /></a> </p>
 -->
 
-- 🚀 DevOps | CI/CD | Exploring GenAI Integrations & GoLang  
-- 🎯 Building reliable infrastructure, scalable automation pipelines, and monitoring systems with a strong bias toward action.
-- 🚀 Troubleshooting Deployment queries related to Pods and Nodes, Autoscaling, Deployment Strategy.
+- 🚀 DevOps | CI/CD | Java | Exploring AI  
+- 🎯 VibeCoding MVPs | Building scalable automation pipelines, and monitoring systems with a strong bias toward action.
+- 🚀 Troubleshooting Deployment problems related to Pods and Nodes, Autoscaling, Deployment Strategy.
 
 
-### Articles at: 
+### Must CheckOut: 
 <a href="https://medium.com/@vanshajbajaj1002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vanshajbajaj1002" height="30" width="40" /></a>
 
 
